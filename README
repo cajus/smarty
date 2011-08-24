@@ -1,0 +1,9 @@
+Smarty 3.0.8
+============
+
+This is a git clone of the SVN of http://www.smarty.net. This is only a
+copy of the library itself. I've moved the *COPYING.lib* file to the
+library subdirectory to keep it visible.
+
+---
+Cajus Pollmeier
